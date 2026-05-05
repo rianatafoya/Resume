@@ -4,8 +4,8 @@ Raeford, NC • rianaltafoya@gmail.com • 612-810-9406
 
 ---
 
-## Professional Summary  
-Project Manager with a background in operations, production, and cross-functional coordination across industrial and creative environments. Experienced in leading projects from concept through completion, improving workflows, and managing high-volume project pipelines. Known for driving efficiency, aligning teams, and delivering high-quality results in fast-paced environments.
+## About 
+Creative at heart with a background in project management and operations, I bring structure to fast-moving, cross-functional work. I’ve led projects from concept through execution, with a focus on clear communication, efficient processes, and high-quality delivery. As a military spouse, I’ve adapted quickly to new environments while maintaining consistent results.
 
 ---
 
@@ -29,11 +29,9 @@ June 2024 – March 2025
 - Acted as a central coordination point for internal requests, maintaining workflow efficiency across teams  
 - Planned and executed company events and team initiatives, coordinating logistics and communication to support engagement and culture  
 
----
-
-### Inside Sales Associate (Previously Dispatch)  
+### Inside Sales Associate / Dispatch  
 **Egan Company** — Champlin, MN  
-June 2022 – Present  
+June 2022 – June 2024  
 - Provided operational and logistical support to the Service Department, including quoting, purchasing, and parts coordination  
 - Developed and improved internal processes, including onboarding procedures and communication workflows between office and field teams  
 - Collaborated with account managers and technicians to ensure timely delivery of materials and services  
@@ -60,22 +58,9 @@ April 2019 – November 2019
 - Coordinated construction project schedules, material orders, and job tracking using CRM systems  
 - Served as primary point of contact for customers, sales reps, and insurance representatives  
 - Managed client communication, scheduling, and issue resolution throughout project lifecycles
-- 
 ---
 
 ## Skills  
-- Project Management & Lifecycle Execution  
-- Process Improvement & Workflow Optimization  
-- Cross-Functional Team Leadership  
-- Client & Stakeholder Communication  
-- CRM Systems (Salesforce, Acculynx, Copper, Great Plains, Corebridge)  
-- Production & Operations Management  
-- Google Workspace  
-
----
-
-## Education  
-**Anoka-Ramsey Community College** — General Studies (Film & Digital Photography coursework)  
-**Monticello High School** — Diploma  
-
----
+- Project Management • Operations Management • Process Improvement • Cross-Functional Collaboration • Client Communication
+- Timeline & Scope Management • Vendor Coordination • Scheduling & Logistics • Production Coordination • Design Collaboration
+- Proposal Development • Procurement • Workflow Optimization • Systems Implementation
