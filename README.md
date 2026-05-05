@@ -44,6 +44,9 @@ June 2022 – Present
 ### Production Manager  
 **FASTSIGNS** — Plymouth, MN  
 November 2019 – June 2022  
+- Directed back-of-house production operations, managing schedules, materials, and workflows to deliver high-quality projects on tight deadlines  
+- Combined hands-on production expertise with planning to efficiently execute design concepts into finished products  
+- Collaborated with sales and design teams to anticipate project needs and ensure smooth transitions from concept through production  
 - Managed production schedules and workflows to meet deadlines for high-volume custom projects  
 - Anticipated and resolved production challenges including material shortages, equipment issues, and scheduling conflicts  
 - Oversaw project execution from intake through completion, ensuring quality and efficiency  
@@ -56,15 +59,8 @@ November 2019 – June 2022
 April 2019 – November 2019  
 - Coordinated construction project schedules, material orders, and job tracking using CRM systems  
 - Served as primary point of contact for customers, sales reps, and insurance representatives  
-- Managed client communication, scheduling, and issue resolution throughout project lifecycles  
-
----
-
-### Additional Experience  
-- Server — Logan’s Roadhouse  
-- Construction Assistant — Superior Interior  
-- Receptionist — Camping World  
-
+- Managed client communication, scheduling, and issue resolution throughout project lifecycles
+- 
 ---
 
 ## Skills  
